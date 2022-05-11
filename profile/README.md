@@ -20,15 +20,9 @@ We challenge our own and others' assumptions through qualitative and quantitativ
 
 
 You can read more about us here:
----
 
-description: >-
-  CCI website
-  CMO website
-
-website: >-
-  https://cmo-ci.gitbook.io/cci/
-  https://www.mskcc.org/research-programs/molecular-oncology
-
----
+**description**|**website**
+:-----:|:-----:
+CCI website|https://cmo-ci.gitbook.io/cci/
+CMO website|https://www.mskcc.org/research-programs/molecular-oncology
 
