@@ -17,7 +17,7 @@ coverY: -1.910236220472441
 * Learn more about the [Quality Control V1](https://cmo-ci.gitbook.io/access-quality-control-v1/)
 * Understand the updated version for the above using these [Quality Control V2](https://cmo-ci.gitbook.io/access-quality-control-v2/)
 * Learn about [ACCESS Data analysis](https://cmo-ci.gitbook.io/access-data-analysis-v1/) scripts that help with downstream analysis
-* Learn about [IGV](https://igv.org) for viewing BAM files to distinguish real variants from artifacts
+* Learn about [IGV](https://igv.org/) for viewing BAM files to distinguish real variants from artifacts
 
 {% hint style="info" %}
 <mark style="color:blue;">**Below are resources that would be handy for you to learn more about all the tools described in the paper.**</mark>&#x20;
@@ -25,11 +25,11 @@ coverY: -1.910236220472441
 
 ## Project Management
 
-| Assay/Team                          | Link to the tool                                                                                                                                           |
-| ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **MSK-ACCESS**                      | [Link to AirTable](https://airtable.com/shr41mQwoEW82IWKq/tbl66CsfQyUIklV8r/viwSQRcKMCahyoxx9?blocks=biplLLHN2bdV0yeju)                                    |
-| **CMO-CH**                          | [Link to AirTable](https://airtable.com/invite/l?inviteId=invetrtCfpSJxDTKO\&inviteToken=45e58de74abff25bebfeff5954190c152ed4236ecf388d080daf1f298a35f1df) |
-| **CMO Cell-Free Informatics (CCI)** | [https://clickup.com/](https://clickup.com) - Request access once you have your msk email id                                                               |
+| Assay/Team                          | Link to the tool                                                                                                                                                              |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MSK-ACCESS**                      | [Link to AirTable](https://airtable.com/shr41mQwoEW82IWKq/tbl66CsfQyUIklV8r/viwSQRcKMCahyoxx9?blocks=biplLLHN2bdV0yeju)                                                       |
+| **CMO-CH**                          | [Link to AirTable](https://airtable.com/invite/l?inviteId=invetrtCfpSJxDTKO\&inviteToken=45e58de74abff25bebfeff5954190c152ed4236ecf388d080daf1f298a35f1df\&utm\_source=email) |
+| **CMO Cell-Free Informatics (CCI)** | [https://clickup.com/](https://clickup.com/) - Request access once you have your msk email id                                                                                 |
 
 ## Functional Resources
 
@@ -39,9 +39,9 @@ coverY: -1.910236220472441
 | **CCI organization on Github**         | [https://github.com/msk-access](https://github.com/msk-access)                                                         |
 | **cBioPortal DMP data**                | InternalLink: [https://github.mskcc.org/knowledgesystems/dmp-2022](https://github.mskcc.org/knowledgesystems/dmp-2022) |
 | **Quality Control for ACCESS V1**      | [Access Quality Control (v1)](https://app.gitbook.com/o/-LhMNgvjydB3TFWAUMVb/s/-M52gq1rRSDQOKMQGEuR/ "mention")        |
-| **Downstream analysis of ACCESS Data** | [https://cmo-ci.gitbook.io/access-data-analysis-v1/](https://cmo-ci.gitbook.io/access-data-analysis-v1/)               |
+| **Downstream analysis of ACCESS Data** | [https://cmo-ci.gitbook.io/cmo-access-data-analysis/](https://cmo-ci.gitbook.io/cmo-access-data-analysis/)             |
 | **Fingerpriting using Biometrics**     | [https://cmo-ci.gitbook.io/biometrics/](https://cmo-ci.gitbook.io/biometrics/)                                         |
-| **High Performance Computing**         | [https://mskcchpc.org/](https://mskcchpc.org)                                                                          |
+| **High Performance Computing**         | [https://mskcchpc.org/](https://mskcchpc.org/)                                                                         |
 | **Nucleo (Fgbio)**                     | [https://github.com/msk-access/nucleo](https://github.com/msk-access/nucleo)                                           |
 | **Quality Control for ACCESS V2**      | [https://cmo-ci.gitbook.io/access-quality-control-v2/](https://cmo-ci.gitbook.io/access-quality-control-v2/)           |
 
