@@ -57,7 +57,7 @@ I am a Computational Biologist as part of the Center of Molecular Oncology Infor
 
 ## Alyssa Vann
 
-👋 Bioinformatics Engineer IV — 💌 vanna@mskcc.org — 🇺🇸 New York
+👋 Bioinformatics Engineer IV — 💌 vanna1@mskcc.org — 🇺🇸 New York
 
 ### Bio
 
